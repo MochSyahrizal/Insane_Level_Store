@@ -774,7 +774,7 @@ The data visualization component of this project was focused on creating a compr
 
 **Employee Performance**: This dashboard evaluates employee contributions by analyzing metrics like order processing efficiency, total sales by employee, and individual performance rankings. Scorecards and bar charts present a clear view of employee performance, which can be used to inform decisions on training, recognition, and resource allocation.
 
-![images/employees-dashboard.jpg](https://github.com/MochSyahrizal/Insane_Level_Store/blob/main/images/employees-dashboard.jpg)
+![employees-dashboard](https://github.com/user-attachments/assets/7837fbd1-f2a5-4f23-a295-8fe83e41f076)
 
 
 **Interactive Features** :Each dashboard includes filter menus, allowing users to drill down into specific data subsets and customize the view according to their needs. This interactivity enhances the user experience, providing flexibility to analyze data from different perspectives and making the dashboards powerful tools for data-driven decision-making.
