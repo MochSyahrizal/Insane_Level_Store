@@ -514,6 +514,8 @@ SET Ekspedisi = 'unknown'
 WHERE Ekspedisi = '';
 ```
 
+## Schema Design
+![Schema-Design](https://github.com/user-attachments/assets/2cc8f4cd-7fc2-47b6-bf31-3a394f281851)
 
 ## Basic Exploratory Data Analysis (EDA)
 ```sql
