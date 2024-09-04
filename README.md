@@ -1,4 +1,4 @@
-# Insane Level Store Project Data with MySQL & Tableau 
+![image](https://github.com/user-attachments/assets/ca6a6ced-d885-4d55-8c8f-84a975cf09c4)# Insane Level Store Project Data with MySQL & Tableau 
 
 ## INTRODUCTION
 This is my first personal project for learning data with MySQL and Tableau. The datasets it self talk abut Insane Level Store, it contain dataset : order, product, customer, employee. In this project im doing data preparation, data cleaning, basic EDA, Ad-Hoc Request and make visualization into dashboard.
@@ -764,19 +764,32 @@ The data visualization component of this project was focused on creating a compr
 
 ![images/sales-dashboard.jpg](https://github.com/MochSyahrizal/Insane_Level_Store/blob/main/images/sales-dashboard.jpg)
 
+*Last Updated Version*
+![sales-dashboard2](https://github.com/user-attachments/assets/ac9f10a2-2231-4d41-8e97-b1d4826e7e67)
+
 
 **Product Performance**: This section focuses on the analysis of product-related data, showcasing top-performing products, sales by category, and detailed product performance metrics. Visualizations such as line charts and bar charts illustrate trends and comparisons across different product lines, helping stakeholders understand product success and areas for improvement.
 
 ![images/products-dashbaord.jog](https://github.com/MochSyahrizal/Insane_Level_Store/blob/main/images/products-dashboard.jpg)
+
+*Last Updated Version*
+![products-dashboard2](https://github.com/user-attachments/assets/1fcd4e33-ade1-4474-b822-c78cb6b97586)
 
 
 **Customer Insights**: Designed to provide a deep dive into customer behavior and demographics, this dashboard features metrics such as customer segmentation, new vs. returning customers, and customer lifetime value. Scatter plots, pie charts, and heat maps are utilized to depict customer distribution and purchasing patterns, offering valuable insights into customer engagement and retention strategies.
 
 ![images/customers-dashboard.jpg](https://github.com/MochSyahrizal/Insane_Level_Store/blob/main/images/customers-dashboard.jpg)
 
+*Last Updated Version*
+![customers-dashboard2](https://github.com/user-attachments/assets/30950659-52c1-4baa-86ec-6e851392e84c)
+
+
 **Employee Performance**: This dashboard evaluates employee contributions by analyzing metrics like order processing efficiency, total sales by employee, and individual performance rankings. Scorecards and bar charts present a clear view of employee performance, which can be used to inform decisions on training, recognition, and resource allocation.
 
 ![employees-dashboard](https://github.com/user-attachments/assets/7837fbd1-f2a5-4f23-a295-8fe83e41f076)
+
+*Last Updated Version*
+![employees-dashboard2](https://github.com/user-attachments/assets/fbe6365b-7176-4fa3-9111-56de35ffed52)
 
 
 **Interactive Features** :Each dashboard includes filter menus, allowing users to drill down into specific data subsets and customize the view according to their needs. This interactivity enhances the user experience, providing flexibility to analyze data from different perspectives and making the dashboards powerful tools for data-driven decision-making.
