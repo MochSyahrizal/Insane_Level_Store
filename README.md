@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/ca6a6ced-d885-4d55-8c8f-84a975cf09c4)# Insane Level Store Project Data with MySQL & Tableau 
+
+![thumnail-project-ils-data](https://github.com/user-attachments/assets/fccbfc57-eb50-4167-a9d6-59958553a321)
 
 ## INTRODUCTION
 This is my first personal project for learning data with MySQL and Tableau. The datasets it self talk abut Insane Level Store, it contain dataset : order, product, customer, employee. In this project im doing data preparation, data cleaning, basic EDA, Ad-Hoc Request and make visualization into dashboard.
